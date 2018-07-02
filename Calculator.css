@@ -1,0 +1,55 @@
+.body{
+  background-image:  url("website_background_by_recai-d9dium5.png");
+  
+}
+.javaCalculator{
+ font-family: "Times New Roman", Georgia, Serif;
+ color:white;
+ font-size:80px;
+ padding:15px;
+ text-align: center;
+}
+.button{
+size:100px;
+ text-align: center;
+ color:black;
+ font-family: "Times New Roman", Georgia, Serif;
+ font-size:15px;
+ height:45px;
+ width:45px;
+ border: 1px solid;
+ border-radius:15px 50px 30px;
+}
+td{
+width:50px;
+}
+.trstyle{
+height:50px;
+}
+.tab{
+
+}
+.onecoulm{
+width:1000px;
+}
+.result{
+background-color:#E0E0E0;
+width:210px;
+color:#CFB53B;
+height:40px;
+border-radius: 15px 50px;
+border: 2px soild;
+font-size:20px;
+text-align:left;
+
+}
+.tronerow{
+height:70px;
+}
+.name{
+ font-family: "Times New Roman", Georgia, Serif;
+ color:#CFB53B;
+ font-size:30px;
+ padding:40px;
+ text-align: right;
+}
